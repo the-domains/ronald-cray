@@ -1,6 +1,6 @@
 name: Ronald Cray
 favicon: null
-layout_spectrum: 0.37693917751312256
+layout_spectrum: 0.05685
 typography_spectrum: 0.015033336356282234
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.7465995068196207
+    - '#152131'
+    - '#d56945'
+    - '#784a3b'
+    - '#cbba8c'
+    - '#af9876'
+  brandStrength: 0.625
   lightness: 0.5764761895406991
-  saturation: 0.894492614781484
-  rhythmicContrast: 0.0937821960542351
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
