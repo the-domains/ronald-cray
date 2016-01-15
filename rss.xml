@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ronald Cray]]></title>
         <description><![CDATA[Ronald Cray]]></description>
-        <link>https://thegrid.ai/ronald-cray/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 06:59:57 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/ronald-cray/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 06:59:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71c5063b-9e9d-4592-ad86-9de29563d750.jpg">]]></description>
-            <link>https://thegrid.ai/ronald-cray/a76fbece-d20c-4bbd-83b6-dc024791b844/index.html</link>
+            <link>undefineda76fbece-d20c-4bbd-83b6-dc024791b844/index.html</link>
             <guid isPermaLink="false">a76fbece-d20c-4bbd-83b6-dc024791b844</guid>
-            <pubDate>Fri, 15 Jan 2016 06:59:41 GMT</pubDate>
+            <pubDate>Fri, 15 Jan 2016 06:59:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
