@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Space for him to live on ]]></title>
-        <description><![CDATA[Space for him to live on ]]></description>
+        <title><![CDATA[Ronald Cray]]></title>
+        <description><![CDATA[Ronald Cray]]></description>
         <link>https://thegrid.ai/ronald-cray/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 08:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jan 2016 08:24:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ronald-cray/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Remembering a good man]]></title>
+            <description><![CDATA[<article><h1>Remembering a good man</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa4f5b94cfc38f56fc5596ddbded51c61cff6eca.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ronald-cray/2f18969f-dd49-41f5-b832-a6b3ca7fd79b/index.html</link>
+            <guid isPermaLink="false">2f18969f-dd49-41f5-b832-a6b3ca7fd79b</guid>
+            <pubDate>Fri, 15 Jan 2016 08:23:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/888585587ced5283784d5165a9ad9e018c3d1256.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/ronald-cray/f7022aa9-1d6a-4a9d-a30b-aa225583c61e/index.html</link>
             <guid isPermaLink="false">f7022aa9-1d6a-4a9d-a30b-aa225583c61e</guid>
             <pubDate>Fri, 15 Jan 2016 08:06:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec250c99-083a-4263-b73d-bed7047566c0.jpg">]]></description>
-            <link>https://thegrid.ai/ronald-cray/2f18969f-dd49-41f5-b832-a6b3ca7fd79b/index.html</link>
-            <guid isPermaLink="false">2f18969f-dd49-41f5-b832-a6b3ca7fd79b</guid>
-            <pubDate>Fri, 15 Jan 2016 07:21:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
