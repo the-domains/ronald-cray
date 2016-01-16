@@ -1,6 +1,6 @@
 name: Ronald Cray
 favicon: null
-layout_spectrum: 0.05685
+layout_spectrum: 0.75185
 typography_spectrum: 0.015033336356282234
 title: Ronald Cray
 cta:
@@ -22,7 +22,7 @@ color:
     - '#b78b34'
     - '#565a4b'
     - '#872a22'
-  brandStrength: 0.625
+  brandStrength: 0.5
   lightness: 0.5764761895406991
   saturation: 0.875
   rhythmicContrast: 0.25
