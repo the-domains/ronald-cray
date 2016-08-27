@@ -1,20 +1,4 @@
-name: Ronald Cray
-favicon: null
-layout_spectrum: 0.75185
 typography_spectrum: 0.85068
-title: Ronald Cray
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#a7bac0'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5764761895406991
   saturation: 0.875
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75185
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Ronald Cray
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Ronald Cray
+description: in rememberence
 purpose: []
